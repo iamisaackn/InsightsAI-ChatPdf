@@ -1,0 +1,30 @@
+On 2025-08-10, 2 units of Headphones were sold at 940 each in the Wholesale segment at Kisumu.
+On 2025-06-17, 1 units of Monitor were sold at 1140 each in the Wholesale segment at Nairobi.
+On 2025-06-20, 4 units of Headphones were sold at 1380 each in the Online segment at Kisumu.
+On 2025-06-27, 19 units of Monitor were sold at 710 each in the Wholesale segment at Mombasa.
+On 2025-07-16, 7 units of Laptop were sold at 1190 each in the Wholesale segment at Nairobi.
+On 2025-06-11, 14 units of Laptop were sold at 1350 each in the Wholesale segment at Kisumu.
+On 2025-08-20, 9 units of Printer were sold at 1090 each in the Wholesale segment at Nairobi.
+On 2025-07-17, 19 units of Monitor were sold at 1870 each in the Online segment at Mombasa.
+On 2025-08-15, 9 units of Phone were sold at 1680 each in the Online segment at Kisumu.
+On 2025-08-20, 13 units of Phone were sold at 960 each in the Online segment at Kisumu.
+On 2025-08-21, Phone had opening stock 14, sold 1, leaving 13 units, with reorder level 15.
+On 2025-06-19, Laptop had opening stock 4, sold 4, leaving 0 units, with reorder level 10.
+On 2025-06-08, Printer had opening stock 28, sold 1, leaving 27 units, with reorder level 9.
+On 2025-08-29, Monitor had opening stock 13, sold 9, leaving 4 units, with reorder level 12.
+On 2025-08-18, Phone had opening stock 24, sold 5, leaving 19 units, with reorder level 6.
+On 2025-08-22, Phone had opening stock 27, sold 3, leaving 24 units, with reorder level 14.
+On 2025-08-17, Monitor had opening stock 13, sold 12, leaving 1 units, with reorder level 9.
+On 2025-06-18, Printer had opening stock 10, sold 9, leaving 1 units, with reorder level 14.
+On 2025-06-22, Monitor had opening stock 44, sold 22, leaving 22 units, with reorder level 13.
+On 2025-08-23, Phone had opening stock 26, sold 5, leaving 21 units, with reorder level 15.
+Invoice a0806ec8 for customer f58d69 dated 2025-06-08 amounted to 377 and is Paid. Payment date: 2025-06-08.
+Invoice 44d064ca for customer a90745 dated 2025-08-16 amounted to 499 and is Paid. Payment date: 2025-08-25.
+Invoice cc9dd527 for customer 6e7d7b dated 2025-08-04 amounted to 1174 and is Unpaid. Payment date: None.
+Invoice 095b54f1 for customer f3f412 dated 2025-06-18 amounted to 1969 and is Paid. Payment date: 2025-06-20.
+Invoice 748f98fd for customer 8f62fd dated 2025-07-28 amounted to 828 and is Unpaid. Payment date: None.
+Invoice 1054cc9c for customer d51c62 dated 2025-06-14 amounted to 1602 and is Paid. Payment date: 2025-07-04.
+Invoice 299832fc for customer f8fb44 dated 2025-08-28 amounted to 1603 and is Paid. Payment date: 2025-09-06.
+Invoice 9259d0c5 for customer f349dc dated 2025-08-29 amounted to 1093 and is Paid. Payment date: 2025-09-23.
+Invoice 7cfac9a0 for customer 487edd dated 2025-08-03 amounted to 1167 and is Paid. Payment date: 2025-08-11.
+Invoice 02ee3bc7 for customer 176adb dated 2025-06-16 amounted to 1018 and is Unpaid. Payment date: None.
